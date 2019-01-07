@@ -1,4 +1,4 @@
-WinTouch.NET/Bitpro
+WinTouch.NET
 ============
 
 WinTouch.NET is a .NET library for handling Windows 7 Touch Gestures in a WinForms application.
